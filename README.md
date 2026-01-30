@@ -3,10 +3,12 @@
 **A/B Testing for Marketing Campaigns using Python**
 
 **Project Overview**
+
 This project focuses on applying A/B testing techniques to evaluate the effectiveness of marketing strategies using Python.
 The goal is to determine which marketing variant performs better in terms of customer engagement and conversion, enabling data-driven decision-making and improved campaign performance.
 
 **Business Problem**
+
 Marketing teams often launch campaigns without clear evidence of which strategy will deliver better results.
 This project addresses that challenge by statistically comparing two campaign variants (A and B) to identify whether changes in messaging, design, or offers lead to higher conversions.
 
